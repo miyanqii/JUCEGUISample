@@ -61,6 +61,7 @@
     <output-test url="file://$MODULE_DIR$/../../../app/build/intermediates/javac/debug_DebugUnitTest/classes" />
     <exclude-output />
     <content url="file://$MODULE_DIR$/../../../../../../JUCE/modules">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../../JUCE/modules" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../../../JUCE/modules" />
     </content>
     <content url="file://$MODULE_DIR$/../../../../../../JUCE/modules/juce_core/native/javacore/app">
@@ -84,9 +85,11 @@
       <excludeFolder url="file://$MODULE_DIR$/../../../app/build" />
     </content>
     <content url="file://$MODULE_DIR$/../../../../../JuceLibraryCode">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../JuceLibraryCode" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../../JuceLibraryCode" />
     </content>
     <content url="file://$MODULE_DIR$/../../../../../Source">
+      <sourceFolder url="file://$MODULE_DIR$/../../../../../Source" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/../../../../../Source" />
     </content>
     <orderEntry type="jdk" jdkName="Android API 30 Platform" jdkType="Android SDK" />
